@@ -12,7 +12,7 @@ This repository contains Object-Oriented Programming (OOP) programs implemented 
 - Encapsulation
 - Abstraction
 - Friend Functions
-- Virtual Functions
+- Friend class
 - File Handling
 
 ## Technologies Used
